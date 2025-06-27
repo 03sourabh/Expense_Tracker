@@ -62,7 +62,7 @@ LinkedIn: [Sourabh Nayak](https://linkedin.com/in/sourabh-nayak-5842b5213)
 **Teammate:** RG Neelofer  
 Email: [neelofer1999@gmail.com](mailto:neelofer1999@gmail.com)  
 
-🔹 This version of the project includes Sourabh’s custom features and structure. Neelofer contributed to the original project version.
+🔹 This version of the project includes my own custom features and structure. 
 ---
 
 ## ⭐ GitHub Repository
