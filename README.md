@@ -59,11 +59,16 @@ ExpenseTrackerApp/
 Email: [iamsourabh20@gmail.com](mailto:iamsourabh20@gmail.com)  
 LinkedIn: [Sourabh Nayak](https://linkedin.com/in/sourabh-nayak-5842b5213)
 
+**Teammate:** RG Neelofer  
+Email: [neelofer1999@gmail.com](mailto:neelofer1999@gmail.com)  
+
+🔹 This version of the project includes Sourabh’s custom features and structure. Neelofer contributed to the original project version.
 ---
 
 ## ⭐ GitHub Repository
 
 [🔗 View on GitHub](https://github.com/03sourabh/Expense_Tracker)
+
 
 
 
